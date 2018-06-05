@@ -1,0 +1,10 @@
+D:\备份\我的数据\Visual Studio 2013\net speed\net speed\bin\Release\网速监控.exe.config
+D:\备份\我的数据\Visual Studio 2013\net speed\net speed\bin\Release\网速监控.exe
+D:\备份\我的数据\Visual Studio 2013\net speed\net speed\bin\Release\网速监控.pdb
+D:\备份\我的数据\Visual Studio 2013\net speed\net speed\bin\Release\网速监控.xml
+D:\备份\我的数据\Visual Studio 2013\net speed\net speed\obj\Release\net_speed.Form1.resources
+D:\备份\我的数据\Visual Studio 2013\net speed\net speed\obj\Release\net_speed.Resources.resources
+D:\备份\我的数据\Visual Studio 2013\net speed\net speed\obj\Release\net speed.vbproj.GenerateResource.Cache
+D:\备份\我的数据\Visual Studio 2013\net speed\net speed\obj\Release\网速监控.exe
+D:\备份\我的数据\Visual Studio 2013\net speed\net speed\obj\Release\网速监控.xml
+D:\备份\我的数据\Visual Studio 2013\net speed\net speed\obj\Release\网速监控.pdb

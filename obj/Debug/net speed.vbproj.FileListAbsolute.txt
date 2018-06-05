@@ -1,0 +1,33 @@
+G:\备份\我的数据\Visual Studio 2013\net speed\net speed\bin\Debug\网速监控.exe.config
+G:\备份\我的数据\Visual Studio 2013\net speed\net speed\obj\Debug\网速监控.exe
+G:\备份\我的数据\Visual Studio 2013\net speed\net speed\obj\Debug\网速监控.xml
+G:\备份\我的数据\Visual Studio 2013\net speed\net speed\obj\Debug\网速监控.pdb
+G:\备份\我的数据\Visual Studio 2013\net speed\net speed\bin\Debug\网速监控.exe
+G:\备份\我的数据\Visual Studio 2013\net speed\net speed\bin\Debug\网速监控.pdb
+G:\备份\我的数据\Visual Studio 2013\net speed\net speed\bin\Debug\网速监控.xml
+G:\备份\我的数据\Visual Studio 2013\net speed\net speed\obj\Debug\net_speed.Form1.resources
+G:\备份\我的数据\Visual Studio 2013\net speed\net speed\obj\Debug\net_speed.Resources.resources
+G:\备份\我的数据\Visual Studio 2013\net speed\net speed\obj\Debug\net speed.vbproj.GenerateResource.Cache
+G:\备份\我的数据\Visual Studio 2013\net speed\net speed\obj\Debug\net speed.vbprojResolveAssemblyReference.cache
+D:\备份\我的数据\Visual Studio 2013\net speed\net speed\bin\Debug\网速监控.exe.config
+D:\备份\我的数据\Visual Studio 2013\net speed\net speed\bin\Debug\网速监控.exe
+D:\备份\我的数据\Visual Studio 2013\net speed\net speed\bin\Debug\网速监控.pdb
+D:\备份\我的数据\Visual Studio 2013\net speed\net speed\bin\Debug\网速监控.xml
+D:\备份\我的数据\Visual Studio 2013\net speed\net speed\obj\Debug\net_speed.Form1.resources
+D:\备份\我的数据\Visual Studio 2013\net speed\net speed\obj\Debug\net_speed.Resources.resources
+D:\备份\我的数据\Visual Studio 2013\net speed\net speed\obj\Debug\net speed.vbproj.GenerateResource.Cache
+D:\备份\我的数据\Visual Studio 2013\net speed\net speed\obj\Debug\网速监控.exe
+D:\备份\我的数据\Visual Studio 2013\net speed\net speed\obj\Debug\网速监控.xml
+D:\备份\我的数据\Visual Studio 2013\net speed\net speed\obj\Debug\网速监控.pdb
+D:\备份\我的数据\Visual Studio 2013\net speed\net speed\obj\Debug\net speed.vbprojResolveAssemblyReference.cache
+C:\Users\god\Desktop\常用\网速监控\net speed\bin\Debug\网速监控.exe.config
+C:\Users\god\Desktop\常用\网速监控\net speed\obj\Debug\网速监控.exe
+C:\Users\god\Desktop\常用\网速监控\net speed\obj\Debug\网速监控.xml
+C:\Users\god\Desktop\常用\网速监控\net speed\obj\Debug\网速监控.pdb
+C:\Users\god\Desktop\常用\网速监控\net speed\bin\Debug\网速监控.exe
+C:\Users\god\Desktop\常用\网速监控\net speed\bin\Debug\网速监控.pdb
+C:\Users\god\Desktop\常用\网速监控\net speed\bin\Debug\网速监控.xml
+C:\Users\god\Desktop\常用\网速监控\net speed\obj\Debug\net speed.vbprojResolveAssemblyReference.cache
+C:\Users\god\Desktop\常用\网速监控\net speed\obj\Debug\net_speed.Form1.resources
+C:\Users\god\Desktop\常用\网速监控\net speed\obj\Debug\net_speed.Resources.resources
+C:\Users\god\Desktop\常用\网速监控\net speed\obj\Debug\net speed.vbproj.GenerateResource.Cache
